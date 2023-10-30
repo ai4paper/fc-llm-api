@@ -27,7 +27,7 @@ Parameters:
     llmModel:
       title: 大语言模型
       type: string
-      default: chatglm2-6b-int4
+      default: qwen-7b-chat
       description: 选择基础的大语言模型
       enum:
         - chatglm2-6b-int4
